@@ -93,27 +93,9 @@ Hey, I'm **Monojit Mitra** — a developer who enjoys turning ideas into working
   <img src="https://streak-stats.demolab.com?user=manuelonthekey&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=93C5FD&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=3b82f6" alt="GitHub contribution streak" />
 </p>
 
-<details open>
-  <summary>
-    <img height="28" src="https://img.shields.io/badge/◈%20VIEW%201-ACTIVITY%20GRAPH%20%5BACTIVE%5D-1e3a8a?style=for-the-badge&logo=github&logoColor=93c5fd" alt="View 1: Activity Graph" />
-    <sub>(Click to collapse/switch)</sub>
-  </summary>
-  <br />
-  <p align="center">
-    <img src="https://github-act-graph.rodriaum.com/graph?username=manuelonthekey&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area=true&area_color=1e3a5f&hide_border=true" alt="GitHub activity graph" width="100%" />
-  </p>
-</details>
-
-<details>
-  <summary>
-    <img height="28" src="https://img.shields.io/badge/◈%20VIEW%202-CONTRIBUTION%20CALENDAR-1e3a8a?style=for-the-badge&logo=github&logoColor=93c5fd" alt="View 2: Contribution Calendar" />
-    <sub>(Click to switch/expand)</sub>
-  </summary>
-  <br />
-  <p align="center">
-    <img src="https://ghchart.rshah.org/3b82f6/manuelonthekey" alt="GitHub contribution calendar" width="100%" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-act-graph.rodriaum.com/graph?username=manuelonthekey&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area=true&area_color=1e3a5f&hide_border=true" alt="GitHub activity graph" />
+</p>
 
 <p align="center">
   <sub>Stats load from external services and may take a little time to update. Your regular GitHub contribution graph appears below the profile README.</sub>
