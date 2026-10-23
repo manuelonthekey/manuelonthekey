@@ -1,0 +1,11 @@
+SOLO LEVELING-INSPIRED GITHUB PROFILE — QUICK SETUP
+
+1. Open README.md and replace every occurrence of YOUR_GITHUB_USERNAME with your exact GitHub username.
+2. Update each featured project link to the real repository URL. Remove or rename any project card that does not match a public repository.
+3. Keep the assets folder next to README.md. The banner is loaded from ./assets/solo-leveling-banner.svg.
+4. Open the repository whose name exactly matches your GitHub username (or create it if you do not already have a profile README repository).
+5. Upload README.md and the assets folder to that repository, then commit the changes.
+6. Your existing GitHub profile picture stays unchanged. This README does not replace it.
+7. The final visible heading is 일어나라, as requested.
+
+Note: GitHub README files do not support arbitrary CSS or JavaScript. This design uses a custom SVG banner, Markdown/basic HTML, skill icons, and third-party stats cards.
