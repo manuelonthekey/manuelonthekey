@@ -84,7 +84,7 @@ Hey, I'm **Monojit Mitra** — a developer who enjoys turning ideas into working
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuelonthekey&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area=true&area_color=1e3a5f&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-act-graph.rodriaum.com/graph?username=manuelonthekey&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area=true&area_color=1e3a5f&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
