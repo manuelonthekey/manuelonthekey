@@ -85,7 +85,11 @@ Hey, I'm **Monojit Mitra** — a developer who enjoys turning ideas into working
 ## ◈ STATUS WINDOW
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuelonthekey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=93c5fd&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+  <img src="./assets/java-3d.gif" width="64" height="64" alt="3D Animated Java" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuelonthekey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=93c5fd&text_color=c9d1d9&rank_icon=percentile" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelonthekey&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" alt="Most-used programming languages" />
 </p>
 
@@ -95,10 +99,6 @@ Hey, I'm **Monojit Mitra** — a developer who enjoys turning ideas into working
 
 <p align="center">
   <img src="https://github-act-graph.rodriaum.com/graph?username=manuelonthekey&bg_color=0d1117&color=93c5fd&line=3b82f6&point=60a5fa&area=true&area_color=1e3a5f&hide_border=true" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <sub>Stats load from external services and may take a little time to update. Your regular GitHub contribution graph appears below the profile README.</sub>
 </p>
 
 ## ◈ CONNECT
