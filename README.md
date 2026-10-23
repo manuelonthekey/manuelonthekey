@@ -14,7 +14,7 @@
 Hey, I'm **Monojit Mitra** — a developer who enjoys turning ideas into working software and getting a little better with every build.
 
 - ⚔️ **Current class:** Full Stack Developer in progress
-- 💠 **Main arsenal:** Java · Spring Boot · Angular
+- 💠 **Main inventory:** Java · Spring Boot · Angular
 - 🧪 **Exploring:** AI/ML, practical automation, and better software design
 - 🏋️ **Side quest:** Fitness, strength training, and consistency
 - 🌱 **Mindset:** Build things, learn from what breaks, repeat
@@ -24,7 +24,17 @@ Hey, I'm **Monojit Mitra** — a developer who enjoys turning ideas into working
 ## ◈ TECH INVENTORY
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-1e3a8a?style=flat-square&logo=openjdk&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/Spring_Boot-1e3a8a?style=flat-square&logo=springboot&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/Angular-1e3a8a?style=flat-square&logo=angular&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=flat-square&logo=typescript&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/HTML5-1e3a8a?style=flat-square&logo=html5&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1e3a8a?style=flat-square&logo=css3&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/Python-1e3a8a?style=flat-square&logo=python&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/Git-1e3a8a?style=flat-square&logo=git&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/GitHub-1e3a8a?style=flat-square&logo=github&logoColor=93c5fd" />&nbsp;<img src="https://img.shields.io/badge/SQLite-1e3a8a?style=flat-square&logo=sqlite&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/Java-1e3a8a?style=for-the-badge&logo=openjdk&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/Spring_Boot-1e3a8a?style=for-the-badge&logo=springboot&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/Angular-1e3a8a?style=for-the-badge&logo=angular&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/TypeScript-1e3a8a?style=for-the-badge&logo=typescript&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/HTML5-1e3a8a?style=for-the-badge&logo=html5&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/CSS3-1e3a8a?style=for-the-badge&logo=css3&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/MySQL-1e3a8a?style=for-the-badge&logo=mysql&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/SQLite-1e3a8a?style=for-the-badge&logo=sqlite&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=93c5fd" />
+  <img height="32" src="https://img.shields.io/badge/GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=93c5fd" />
 </p>
 
 <p align="center">
